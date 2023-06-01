@@ -35,8 +35,8 @@ Step 9: Save and run the application.
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by:DINESH KUMAR M
-Registeration Number :212221220011
+Developed by:PRASANNA
+Registeration Number :212221220039
 */
 ```
 
@@ -241,5 +241,4 @@ public class MainActivity2 extends AppCompatActivity {
 
 ## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
-
 
